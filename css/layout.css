@@ -1,0 +1,9 @@
+*{
+    margin:0;
+    padding:0;
+}
+body {
+    width:100%;
+    font:14px/1 Arial,sans-serif;
+    background: linear-gradient(#21014d, #6823bc);
+}
