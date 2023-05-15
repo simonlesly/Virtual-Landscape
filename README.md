@@ -13,7 +13,7 @@ Cette application génère, à chaque fois qu'elle est activée (ou rechargée),
 
 Mon objectif était de réalisé sur le canva le paysage que voici ci-dessous. Je n'avais pas beaucoup d'inspiration alorq je me suis mise au défi de reproduire au mieux un paysage déja existant. :  (copies écran) :
 <p float="left">
-<img src="Docs/modèle.jpg" height="500">
+<img src="docs/modèle.JPG" height="500">
 </p>
 
 
